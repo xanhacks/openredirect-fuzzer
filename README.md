@@ -1,5 +1,7 @@
 # OpenRedirect Fuzzer
 
+OpenRedirect Fuzzer allows you to fuzz an HTTP parameter and detect open redirect vulnerabilities by checking the original domain and the domain after redirect. 
+
 ## Installation
 
 ```bash
